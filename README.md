@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/idawnwon/tiny_python_projects)](https://repl.it/github/idawnwon/tiny_python_projects)
+
 # Introduction
 
 This is the code repository for the Manning Publications book, _Tiny Python Projects_, by Ken Youens-Clark:
